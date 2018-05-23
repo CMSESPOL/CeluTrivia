@@ -1,0 +1,16 @@
+﻿¿Quién es el último ganador del balón de oro?;Lionel Messi;Cristiano Ronaldo*;Neymar Jr.;Manuel Neuer
+¿Cuál es el lugar más frío de la tierra?;Siberia;Rusia;Antártida*;Alaska
+¿Quién es el autor de La Odisea?;Homero*;Sócrates;Ulises;Odiseo
+¿Cuál es el río más largo actualmente en el mundo?;Nilo;Amazonas*;Ganges;Eufrates
+¿Qué cantidad de huesos hay en el cuerpo humano, en la etapa adulta?;300;306;200;206*
+¿En qué año finalizó la II Guerra Mundial?;1955;1950;1945*;1940
+¿Quién pintó “la última cena”?;Leonardo da Vinci*;Miguel Angel;Pablo Picasso;Vincent van Gogh
+¿Como se llama océano más grande?;Océano Índico;Océano Atlántico;Océano Pacífico*;Océano Ártico
+¿En qué año llegó Cristóbal Colón a América?;1490;1492*;1533;1512
+¿Cuál es el disco más vendido de la historia?;Goodbye Yellow Brick Road, de Sir Elton Jhon;The Dark Side Of The Moon, de Pink Floyd;Thriller, de Michael Jackson*;Back in Black, de ACDC
+¿En qué ciudad se encuentra la sede de la FIFA?;Munich;Zürich*;Bruselas;Copenhague
+¿Cuál es el país más grande actualmente en el mundo?;China;Brasil;Estados Unidos;Rusia*
+¿Cuál es el órgano del cuerpo humano donde se produce la insulina?;Riñones;Hígado;Bazo;Páncreas*
+¿Qué país tiene la forma de una bota?;Grecia;Croacia;Italia*;Suiza
+¿Cuál es la moneda del Reino Unido?;Libra*;Euro;Chelín;Penique
+¿Cuál es país más poblado de la Tierra?;China*;India;Estados Unidos;Brasil

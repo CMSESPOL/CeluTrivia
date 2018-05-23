@@ -1,0 +1,10 @@
+﻿¿Cuál es el portal web que la espol usa para que los alumnos puedan recibir notificaciones de tareas, comunicarse con profesores y realizar evaluaciones?;www.sidweb.espol.edu.ec*;www.cenacad.espol.edu.ec;www.academico.espol.edu.ec;Ninguno de los anteriores
+¿Cuál es el rector(a) actual de la espol?;M. SC. SERGIO FLORES;M.SC. MARCOS MENDOZA;PH.D. CECILIA PAREDES*;PH.D. KATHERINE CHILUIZA
+¿Cuántos años de fundación tiene la espol?;59*;55;62;65
+El bloque 32 de la espol es más conocido como:;Tecnologías;Básico Viejo*;FEPOL;Básico Nuevo
+¿Cuántas facultades hay actualmente en la espol?;8*;9;7;10
+¿Qué facultad acoge las carreras relacionadas con electricidad y computación?;FIEC*;FCSH;EDCOM;FICT
+Las carreras relacionadas con estudios marítimos, biológicos y de recursos naturales están agrupadas en una sola facultad ¿Cuál es?;FIEC;FCSH;FIMCBOR*;FIMCP
+Facultad encargada de las carreras relacionadas con el diseño y la comunicación visual;EDCOM*;FCNM;FCV;FICT
+Facultad encargada de las carreras relacionadas con las matemáticas y ciencias sociales;FCNM*;FIEC;EDCOM;FCSH
+¿En qué año se fundó la espol?;1958*;1960;1959;1957

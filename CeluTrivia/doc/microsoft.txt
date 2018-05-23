@@ -1,0 +1,6 @@
+﻿¿En qué año se fundó microsft?;1975*;1976;1977;1978
+El correo estudiantil funciona bajo una plataforma de Microsoft llamada:;Office 365*;Outlook;Windows 10;Ninguna de las anteriores
+¿Quién fue el fundador de Microsoft?;Bill Gates*;Mark Zuckerberg;Steve Jobs;Larry Page
+En el año de 1980 Micrisoft creó un sistema operativo que corrió sobre una IBM ¿Cuál fue este?;Windows 1.0;MS-DOS*;Windows 2.0;Windos XP
+En 1985 Microsoft lanza su primer sistema operativo gráfico, ¿Cuál fue este?;Windows 1.0*;MS-DOS;Windows Vista;Windos 98
+¿En qué año fue creado el procesador de texto más conocido "Microsoft Word"?;1983*;1981;1982;1980
